@@ -1,3 +1,9 @@
+---
+title: About
+layout: page
+permalink: /about/
+---
+
 # [Bajawa Jekyll Theme][1]
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/kulacino/bajawa/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
@@ -15,10 +21,11 @@ Repository: https://github.com/kulacino/bajawa
 Version: 0.1.0
 Gem: 0.1.0
 ```
+
 [![Bajawa preview][2]][1]
 
 [1]: https://kulacino.github.io/bajawa
-[2]: ss01.png "site screenshot"
+[2]: ../ss01.png "site screenshot"
 
 **If you like and enjoy this theme, please consider [treating me a coffee](https://paypal.me/ayuwindd) so I could develop and maintain it regularly.**
 
@@ -28,25 +35,10 @@ Gem: 0.1.0
     1. [Ruby Gem Method](#ruby-gem-method)
     2. [GitHub Pages Method](#github-pages-method)
         1. [Exclude Something](#exclude-something)
-2. [Site Settings](#site-settings)
-    1. [Structure](#structure)
-    2. [Configuration](#configuration)
-3. [Layouts](#layouts)
-    1. [`layout: default`](#layout-default)
-    2. [`layout: post`](#layout-post)
-    3. [`layout: page`](#layout-page)
-    4. [`layout: home`](#layout-home)
-    5. [`layout: search`](#layout-search)
-4. [Navigation](#navigation)
-5. [Author](#author)
-6. [Footer](#footer)
-    1. [Footer Social](#footer-social)
-    2. [Copyright Text](#copyright-text)
-7. [Font Awesome Icons](#font-awesome-icons)
-8. [Contributing](#contributing)
-9. [Development](#development)
-10. [Attribution](#attribution)
-11. [License](#license)
+2. [Readme](#readme)
+3. [Development](#development)
+4. [Attribution](#attribution)
+5. [License](#license)
 
 ## Installation
 
@@ -80,77 +72,9 @@ to be added
 
 to be added
 
-## Site Settings
+## Readme
 
-to be added
-
-### Structure
-
-Basic jekyll layout on first initialization.
-
-### Configuration
-
-Bajawa calls every configuration from `_config.yml`.
-
-## Layouts
-
-lorem ipsum dolor
-
-### `layout: default`
-
-to be added
-
-### `layout: post`
-
-to be added
-
-### `layout: page`
-
-to be added
-
-### `layout: home`
-
-to be added
-
-### `layout: search`
-
-to be added
-
-## Navigation
-
-to be added
-
-## Author
-
-to be added
-
-## Footer
-
-to be added
-
-### Footer Social
-
-to be added
-
-### Copyright Text
-
-to be added
-
-## Font Awesome Icons
-
-Bajawa comes with font awesome icons. Font awesome css is linked as external stylesheet via its CDN. Open `_includes/head.html` file and then scroll down before `</head>`.
-
-```
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-```
-
-If you want to host it by yourself, download `font-awesome.min.css` from [**here**](https://fontawesome.com/v4.7.0/get-started).
-
-Place it under `assets/css/font-awesome.min.css` and call it via `link rel` above.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+For a full documentation of this theme, please consider visit the official readme [**here**](https://github.com/kulacino/bajawa/blob/master/README.md).
 
 ## Development
 
